@@ -9,7 +9,7 @@ SpoolFlow ist ein ESP32-basiertes NFC-Gerät für [FilamentFlow](https://filamen
 - 🏷️ **FilamentFlow NTAG** – Selbst beschriebene NFC-Tags (ISO 14443A)
 - 🔵 **Prusa OpenPrintTag** – Prusa Originalspulen (ISO 15693 / NFC-V) *(erfordert Hardware-Lizenz)*
 - 🟠 **Bambu UID-Erkennung** – Bambu Originalspulen via UID-Mapping *(erfordert Hardware-Lizenz)*
-- ⚖️ 4-Tasten-UI für Gramm-Eingabe (5/25/50/100g)
+- ⚖️ 4-Tasten-UI für Gramm-Eingabe (100/10/1/"OK")
 - 📺 OLED-Display (SSD1306 128x64)
 - 🔧 Setup via Browser (AP-Mode)
 
