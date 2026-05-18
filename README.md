@@ -42,6 +42,10 @@ SpoolFlow ist ein ESP32-basiertes NFC-Gerät für [FilamentFlow](https://filamen
 
 > ⚠️ **Wichtig:** MOSI und MISO sind beim PN5180 absichtlich vertauscht (SDI↔SDO) – das ist kein Fehler!
 
+## Schaltplan
+
+![SpoolFlow v5 Schaltplan](SpoolFlow_v5_Schaltplan.svg) 
+
 ## Bibliotheken
 
 - [PN5180 by Andreas Trappmann](https://github.com/ATrappmann/PN5180-Library)
