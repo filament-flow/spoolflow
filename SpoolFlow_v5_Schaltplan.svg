@@ -43,7 +43,7 @@
   <text font-size="12" x="560" y="126" text-anchor="middle" fill="#185FA5">I2C Adresse: 0x3C</text>
   <text font-size="12" x="488" y="152" fill="#0C447C">SDA   ← GPIO 21</text>
   <text font-size="12" x="488" y="170" fill="#0C447C">SCL   ← GPIO 22</text>
-  <text font-size="12" x="488" y="188" fill="#0C447C">VCC   ← 3.3V</text>
+  <text font-size="12" x="488" y="188" fill="#993C1D">VCC   ← 5V (ESP32 VIN) ⚠</text>
   <text font-size="12" x="488" y="206" fill="#0C447C">GND   ← GND</text>
 
   <!-- I2C Bus Label -->
@@ -92,7 +92,7 @@
   <text font-size="14" font-weight="600" x="120" y="584" text-anchor="middle" fill="#4A1B0C">Stromversorgung</text>
   <text font-size="12" x="50" y="614" fill="#712B13">USB (5V) → ESP32 VIN</text>
   <text font-size="12" x="50" y="634" fill="#712B13">ESP32 3.3V → PN5180</text>
-  <text font-size="12" x="50" y="654" fill="#712B13">ESP32 3.3V → OLED</text>
+  <text font-size="12" x="50" y="654" fill="#993C1D">ESP32 5V (VIN) → OLED ⚠</text>
   <text font-size="12" x="50" y="674" fill="#712B13">GND gemeinsam (alle)</text>
 
   <!-- ═══════════════════════════════════════════ -->
